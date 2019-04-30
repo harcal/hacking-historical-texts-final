@@ -11,7 +11,7 @@ Instructor of Ancient History and Digital Humanities<br />
 Department of History<br />
 [University of South Florida](https://github.com/usf-portal)
 
----
+Zachary Pettey
 
 **[View the repository in GitHub](https://github.com/usf-portal/hacking-historical-texts-final)**
 
