@@ -13,21 +13,6 @@ Zachary Pettey
 
 ---
 
-<figure>
-    <p class="center-text">
-        <a href="{{ site.baseurl }}/index.html">Home</a> |
-        <a href="{{ site.baseurl }}/pages/background.html">Background</a> |
-        <a href="{{ site.baseurl }}/pages/sources.html">Sources</a> |
-        <a href="{{ site.baseurl }}/pages/workflow.html">Workflow</a> |
-        <a href="{{ site.baseurl }}/pages/analysis.html">Data Analysis</a> |
-        <a href="{{ site.baseurl }}/pages/reflections.html">Reflections</a> |
-        <a href="{{ site.baseurl }}/pages/bibliography.html">Bibliography</a> |
-        <a href="{{ site.baseurl }}/pages/credits.html">Credits</a>
-    </p>
-</figure>
-
----
-
 ## Short Summary
 
 This project focuses on analyzing a dataset regarding ads from the Boston Pilot newspaper from 1831 to 1921 regarding lost immmigrants. The data provides a multitude of information regarding location, description of whereabouts, and other identifying attributes associated with both the lost individual and the person writing the ad. 
