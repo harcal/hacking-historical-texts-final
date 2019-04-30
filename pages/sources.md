@@ -21,9 +21,6 @@ Dataset used for Tableau analysis originates from the Harvard Dataverse as well 
 * The main author of the dataset, Ruth-Ann Harris, seems to have compiled this dataset as her keystone/main project of her career and thus is pursuing the topic for historical purposes, with an intent focused on expanding the known Irish of the time. The project is laid out with a secondary intent of helping Digital Humanities student learn how to contribute to and build a database, as the project contains a codex for contribution as well as a google data entry form. Harris has not only helped compile this dataset but has also written up the dataset in book form in conjunction with other two other authors. 
 ---
 
-## Data Analysis
+## Data Overview
 
-* Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
-* What kinds of categorizations do you find in the data, and do they seem reasonable?
-* Do the means of data collection or categorization affect how the data is constructed in any way?
-* Does the website contain any tools for visualizing the data? Do they seem like they are making any kind of arguments?
+* The data is provided in excel csv form via the Harvard Dataverse, a collective database which contains 82,000 datasets and 3,000 dataverses. The intent of collegiate sites such as this is to allow open/closed access to databases which can be used to further research on specific topics. Sites such as this are primarily driven with the intent of furthering research and education above monetary gain. 
