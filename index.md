@@ -1,4 +1,4 @@
-# Hacking Historical Texts Final Project Template
+# Information Wanted: Immigrant ads for lost individuals
 
 {% include css.html %}
 
