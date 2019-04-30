@@ -1,4 +1,4 @@
-# Information Wanted: Immigrant ads for lost individuals
+# Information Wanted: Boston Pilot Newspaper
 
 ## Instructor and Author
 
