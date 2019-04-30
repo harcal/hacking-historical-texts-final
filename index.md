@@ -2,7 +2,7 @@
 
 {% include css.html %}
 
-![Title Image]({{ site.baseurl }}/irish-immigrants-ellis-island.jpg)
+![Example Image](https://i.imgur.com/o0wXZap.jpg)
 
 ## Instructor and Author
 
