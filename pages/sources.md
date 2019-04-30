@@ -18,12 +18,7 @@ Dataset used for Tableau analysis originates from the Harvard Dataverse as well 
 
 ## Authorship
 
-* Is there any information available discussing the process by which the information was gathered, or how the digital project was constructed?
-* How transparent is the project about the choices they made in gathering and transforming the data for digitalization? [Click here for an example of a an excellent 'About' page from a database about Anglo-Saxons](http://www.pase.ac.uk/about/index.html)
-* Do the organizations or individuals involved in gathering and publishing your data set have any stated goals or agendas?
-* Do the organizations or individuals involved seem to have any unstated agendas or goals?
-* If a 3rd party funded the project, who are they? Do they have any particular perspective?
-
+* The main author of the dataset, Ruth-Ann Harris, seems to have compiled this dataset as her keystone/main project of her career and thus is pursuing the topic for historical purposes, with an intent focused on expanding the known Irish of the time. The project is laid out with a secondary intent of helping Digital Humanities student learn how to contribute to and build a database, as the project contains a codex for contribution as well as a google data entry form. Harris has not only helped compile this dataset but has also written up the dataset in book form in conjunction with other two other authors. 
 ---
 
 ## Data Analysis
