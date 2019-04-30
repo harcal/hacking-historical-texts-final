@@ -9,8 +9,6 @@ Department of History<br />
 
 Zachary Pettey
 
-**[View the repository in GitHub](https://github.com/usf-portal/hacking-historical-texts-final)**
-
 ---
 
 ## Short Summary
