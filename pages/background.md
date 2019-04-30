@@ -1,7 +1,5 @@
 # Project Background
 
----
-
 <figure>
     <p class="center-text">
         <a href="{{ site.baseurl }}/index.html">Home</a> |
