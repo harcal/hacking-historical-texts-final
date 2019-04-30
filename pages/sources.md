@@ -1,5 +1,18 @@
 # Sources
 
+<figure>
+    <p class="center-text">
+        <a href="{{ site.baseurl }}/index.html">Home</a> |
+        <a href="{{ site.baseurl }}/pages/background.html">Background</a> |
+        <a href="{{ site.baseurl }}/pages/sources.html">Sources</a> |
+        <a href="{{ site.baseurl }}/pages/workflow.html">Workflow</a> |
+        <a href="{{ site.baseurl }}/pages/analysis.html">Data Analysis</a> |
+        <a href="{{ site.baseurl }}/pages/reflections.html">Reflections</a> |
+        <a href="{{ site.baseurl }}/pages/bibliography.html">Bibliography</a> |
+        <a href="{{ site.baseurl }}/pages/credits.html">Credits</a>
+    </p>
+</figure>
+
 [Info Wanted](https://infowanted.bc.edu/)
 
 [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNJU3N)
