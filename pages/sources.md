@@ -1,12 +1,12 @@
 # Sources
 
-https://infowanted.bc.edu/
+[Info Wanted](https://infowanted.bc.edu/)
 
-https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNJU3N
+[Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNJU3N)
 
-https://www.npr.org/templates/story/story.php?storyId=4539742
+[NPR Article](https://www.npr.org/templates/story/story.php?storyId=4539742)
 
-http://eds.b.ebscohost.com.ezproxy.lib.usf.edu/eds/pdfviewer/pdfviewer?vid=3&sid=45e52af6-29f4-4174-aaf7-fa4744762d69%40pdc-v-sessmgr05
+[Irish Literary Supplement](http://eds.b.ebscohost.com.ezproxy.lib.usf.edu/eds/pdfviewer/pdfviewer?vid=3&sid=45e52af6-29f4-4174-aaf7-fa4744762d69%40pdc-v-sessmgr05)
 
 ---
 
