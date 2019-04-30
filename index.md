@@ -2,7 +2,7 @@
 
 {% include css.html %}
 
-![Title Image]({{ site.baseurl }}/assets/images/intro-image.png)
+![Example Image](/information-wanted/assets/images/irish-immigrants-ellis-island.jpg)
 
 ## Instructor and Author
 
