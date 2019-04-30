@@ -1,19 +1,18 @@
 # Sources
 
-This is where your source analysis of any/all data should go. Delete this introductory material when submitting your assignment.
+https://infowanted.bc.edu/
 
-This source analysis should discuss whatever source(s) you used for this project.
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNJU3N
 
-See the [README.md](../README.md) file for information on how to submit this assignment.
+https://www.npr.org/templates/story/story.php?storyId=4539742
 
-**You SHOULD revise your source analysis if you already did one for the given website.**
+http://eds.b.ebscohost.com.ezproxy.lib.usf.edu/eds/pdfviewer/pdfviewer?vid=3&sid=45e52af6-29f4-4174-aaf7-fa4744762d69%40pdc-v-sessmgr05
+
 ---
 
 ## Basic Source Information
 
-* Where is your source located (URL? Or traditional media)
-* What kind of source is it? (Diaries, records of objects, data tables, etc...)
-* Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
+Dataset used for Tableau analysis originates from the Harvard Dataverse as well as the Boston College Dataverse. The source has been updated multiple times over the course of years by Harvard students as well as the original Project Lead, Ruth-Ann Harris. 
 
 ---
 
