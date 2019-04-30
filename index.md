@@ -1,9 +1,5 @@
 # Information Wanted: Immigrant ads for lost individuals
 
-{% include css.html %}
-
-![Example Image](/information-wanted/assets/images/irish-immigrants-ellis-island.jpg)
-
 ## Instructor and Author
 
 [David J. Thomas](mailto:dave.a.base@gmail.com), [thePortus.com](http://thePortus.com)<br />
