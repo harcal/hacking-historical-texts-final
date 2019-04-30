@@ -1,6 +1,6 @@
 # Information Wanted: Lost Irish Immigrants
 
-{% include css.html %}
+
 
 ![Example Image](https://i.imgur.com/o0wXZap.jpg)
 
