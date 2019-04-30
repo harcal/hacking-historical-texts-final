@@ -2,6 +2,21 @@
 
 ---
 
+<figure>
+    <p class="center-text">
+        <a href="{{ site.baseurl }}/index.html">Home</a> |
+        <a href="{{ site.baseurl }}/pages/background.html">Background</a> |
+        <a href="{{ site.baseurl }}/pages/sources.html">Sources</a> |
+        <a href="{{ site.baseurl }}/pages/workflow.html">Workflow</a> |
+        <a href="{{ site.baseurl }}/pages/analysis.html">Data Analysis</a> |
+        <a href="{{ site.baseurl }}/pages/reflections.html">Reflections</a> |
+        <a href="{{ site.baseurl }}/pages/bibliography.html">Bibliography</a> |
+        <a href="{{ site.baseurl }}/pages/credits.html">Credits</a>
+    </p>
+</figure>
+
+---
+
 Put a general discussion of your topic here. Don't get into the historiography or scholarship here. Just introduce to your reader what your topic is. What is the 'problem', the 'question', and/or the 'argument'.
 
 YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
