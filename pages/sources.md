@@ -18,9 +18,10 @@ Dataset used for Tableau analysis originates from the Harvard Dataverse as well 
 
 ## Authorship
 
-* The main author of the dataset, Ruth-Ann Harris, seems to have compiled this dataset as her keystone/main project of her career and thus is pursuing the topic for historical purposes, with an intent focused on expanding the known Irish of the time. The project is laid out with a secondary intent of helping Digital Humanities student learn how to contribute to and build a database, as the project contains a codex for contribution as well as a google data entry form. Harris has not only helped compile this dataset but has also written up the dataset in book form in conjunction with other two other authors. 
+The main author of the dataset, Ruth-Ann Harris, seems to have compiled this dataset as her keystone/main project of her career and thus is pursuing the topic for historical purposes, with an intent focused on expanding the known Irish of the time. The project is laid out with a secondary intent of helping Digital Humanities student learn how to contribute to and build a database, as the project contains a codex for contribution as well as a google data entry form. Harris has not only helped compile this dataset but has also written up the dataset in book form in conjunction with other two other authors. 
+
 ---
 
 ## Data Overview
 
-* The data is provided in excel csv form via the Harvard Dataverse, a collective database which contains 82,000 datasets and 3,000 dataverses. The intent of collegiate sites such as this is to allow open/closed access to databases which can be used to further research on specific topics. Sites such as this are primarily driven with the intent of furthering research and education above monetary gain. 
+The data is provided in excel csv form via the Harvard Dataverse, a collective database which contains 82,000 datasets and 3,000 dataverses. The intent of collegiate sites such as this is to allow open/closed access to databases which can be used to further research on specific topics. Sites such as this are primarily driven with the intent of furthering research and education above monetary gain. 
