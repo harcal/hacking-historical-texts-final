@@ -1,5 +1,19 @@
 # Workflow
 
+<figure>
+    <p class="center-text">
+        <a href="{{ site.baseurl }}/index.html">Home</a> |
+        <a href="{{ site.baseurl }}/pages/background.html">Background</a> |
+        <a href="{{ site.baseurl }}/pages/sources.html">Sources</a> |
+        <a href="{{ site.baseurl }}/pages/workflow.html">Workflow</a> |
+        <a href="{{ site.baseurl }}/pages/analysis.html">Data Analysis</a> |
+        <a href="{{ site.baseurl }}/pages/reflections.html">Reflections</a> |
+        <a href="{{ site.baseurl }}/pages/bibliography.html">Bibliography</a> |
+        <a href="{{ site.baseurl }}/pages/credits.html">Credits</a>
+    </p>
+</figure>
+
+
 Describe your overall workflow here. Think of this as something like when a scientific paper describes their process. The idea is *repeatability*. People need to know how they can get a copy of the data. If you chopped up the data, altered it, or joined it with other data sets they need to know that too.
 
 Discuss (in detail) the processes of
