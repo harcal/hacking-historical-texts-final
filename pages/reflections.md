@@ -1,5 +1,18 @@
 # Reflections
 
+<figure>
+    <p class="center-text">
+        <a href="{{ site.baseurl }}/index.html">Home</a> |
+        <a href="{{ site.baseurl }}/pages/background.html">Background</a> |
+        <a href="{{ site.baseurl }}/pages/sources.html">Sources</a> |
+        <a href="{{ site.baseurl }}/pages/workflow.html">Workflow</a> |
+        <a href="{{ site.baseurl }}/pages/analysis.html">Data Analysis</a> |
+        <a href="{{ site.baseurl }}/pages/reflections.html">Reflections</a> |
+        <a href="{{ site.baseurl }}/pages/bibliography.html">Bibliography</a> |
+        <a href="{{ site.baseurl }}/pages/credits.html">Credits</a>
+    </p>
+</figure>
+
 This is sort of your final thoughts, a summary of the process of the project itself. By discussing where you hit roadblocks and where you wish you could go if you had more time, you leave future individuals something to build on.
 
 You should talk about where you group encountered the most difficulties. What was the hardest about scraping, or visualizing, or locating historiography? Did you have problems communicating or sharing files on GitHub?
