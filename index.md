@@ -1,6 +1,10 @@
 # Information Wanted: Lost Irish Immigrants
 
+---
 
+{% include nav.html %}
+
+---
 
 ![Example Image](https://i.imgur.com/o0wXZap.jpg)
 
@@ -14,10 +18,3 @@ Department of History<br />
 ---
 
 **[View the repository in GitHub](https://github.com/usf-portal/hacking-historical-texts-final)**
-
----
-
-{% include nav.html %}
-
----
-
