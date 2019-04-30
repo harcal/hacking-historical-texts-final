@@ -1,4 +1,4 @@
-# Hacking Historical Texts Final Project Template
+# Information Wanted: Lost Irish Immigrants
 
 {% include css.html %}
 
