@@ -1,5 +1,20 @@
 # Analysis
 
+<figure>
+    <p class="center-text">
+        <a href="{{ site.baseurl }}/index.html">Home</a> |
+        <a href="{{ site.baseurl }}/pages/background.html">Background</a> |
+        <a href="{{ site.baseurl }}/pages/sources.html">Sources</a> |
+        <a href="{{ site.baseurl }}/pages/workflow.html">Workflow</a> |
+        <a href="{{ site.baseurl }}/pages/analysis.html">Data Analysis</a> |
+        <a href="{{ site.baseurl }}/pages/reflections.html">Reflections</a> |
+        <a href="{{ site.baseurl }}/pages/bibliography.html">Bibliography</a> |
+        <a href="{{ site.baseurl }}/pages/credits.html">Credits</a>
+    </p>
+</figure>
+
+---
+
 This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with. In fact, this is where you tell the reader what it is you discovered. You can use the first person if that helps you discuss the process. This is where you both describe to the reader what they are looking at (if they are looking at a visualization) and, most importantly, what your interpretation of the results is.
 
 If you want to add an image you can do it like this....
