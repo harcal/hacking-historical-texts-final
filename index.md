@@ -7,6 +7,8 @@
 
 ![Example Image](https://i.imgur.com/o0wXZap.jpg)
 
+---
+
 ## Instructor and Author
 
 [David J. Thomas](mailto:dave.a.base@gmail.com), [thePortus.com](http://thePortus.com)<br />
