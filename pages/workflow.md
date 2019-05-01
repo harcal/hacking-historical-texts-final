@@ -1,3 +1,4 @@
+# Workflow
 
 <figure>
     <p class="center-text">
@@ -11,8 +12,6 @@
         <a href="{{ site.baseurl }}/pages/credits.html">Credits</a>
     </p>
 </figure>
-
-# Workflow
 
 The first step was finding data relating to a topic I wanted, which would be something regarding the Irish in America during or after the Great Famine. After selecting a viable dataset which could yield potentially beneficial results, the data was downloaded from the Harvard Dataverse and modified by me to work in compatibility with Tableau. Identifiers such as sex and location were altered in order to be better recognized by Tableau. The formatting used by the author and contributors was odd to me, as it was counter intuitive when using that information in tandem with data analysis programs. Below you can see a workflow for the overall process taken when gathering, researching and analyzing data. 
 
