@@ -1,4 +1,4 @@
-Navigate:
+#
 ---
 
 {% include nav.html %}
