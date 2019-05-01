@@ -1,5 +1,3 @@
-# Information Wanted: Lost Irish Immigrants
-
 ---
 
 {% include nav.html %}
