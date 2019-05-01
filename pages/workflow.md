@@ -1,4 +1,3 @@
-# Workflow
 
 <figure>
     <p class="center-text">
@@ -13,8 +12,11 @@
     </p>
 </figure>
 
+# Workflow
 
 Describe your overall workflow here. Think of this as something like when a scientific paper describes their process. The idea is *repeatability*. People need to know how they can get a copy of the data. If you chopped up the data, altered it, or joined it with other data sets they need to know that too.
+
+![Example Image](https://i.imgur.com/YnqmANs.png)
 
 Discuss (in detail) the processes of
 
