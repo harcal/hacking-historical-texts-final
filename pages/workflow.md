@@ -24,11 +24,6 @@ The process involved regarding the data consisted of three steps:
 * Cleaning/altering the data
 * Visualizing the data
 
+![Example Image](https://i.imgur.com/2VBOofb.png)
 
-What you need to cover: Talk about every step in your process, talk about how and why you made the decisions that you did. Why did you pick the website that you did? Did you download every record, or just some? Did you download the data directly from the website, or did you use a tool like Webscraper.io? Did you use OpenRefine to change the raw data in some form, and if so, why did you change it the way you did? What program(s) or techniques did you decide on to visualize or analyze it? Why did you feel those programs (e.g. Tableau or Gephi) were better than other options, given your research interest? Did you have to do anything to the data inside Tableau?
-
-To make elegant workflow charts, use [LucidChart](https://lucidchart.com)
-
-Take plenty of screenshots to document your process...
-    * **Mac** press 'command' + 'shift' + '4' and then drag a rectangle to take a screenshot of whatever you select... On
-    * **Windows**, click the 'Start' button then type 'Snipping' and select Snipping Tool, then click 'New' and drag a rectangle to take a screenshot of whatever you select.
+Once a suitable dataset was found I began cleaning and changing the codex in place in order to make the file more compatible for Tableau. I also created two backups of the file as opening Tableau seemed to sometimes cause data corruption. I also saved the file as a text file rather than a CSV file. In the above image you can see an example of me cleaning the data, in that specific case deleting information that would be useless when analyzing and comparing in Tableau. Columns containing large amounts of descriptive text would be useless, and were deleted. The variables "m" and "f" were changed to Male and Female. Unforunately for two important variable it was difficult to reformat them for analysis, as they contained too many differing identifiers. For example, the last known location column was not changed as it would require finding and replacing the acronyms of every state and city manually, which would take too much to do for a project of this scale. The age identifier also opened up a new question regarding the data, as the birth year of each individual did not have a millenial/centurial prefix. This meant it was impossible to tell what year some people were born, as age was often not included in the advertisement. 
