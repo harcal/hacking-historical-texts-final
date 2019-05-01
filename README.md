@@ -1,4 +1,4 @@
-# Information Wanted: Boston Pilot Newspaper
+# Information Wanted: Missing Irish Immigrants
 
 ## Instructor and Author
 
