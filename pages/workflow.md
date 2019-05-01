@@ -18,12 +18,12 @@ The first step was finding data relating to a topic I wanted, which would be som
 
 ![Example Image](https://i.imgur.com/YnqmANs.png)
 
-Discuss (in detail) the processes of
+The process involved regarding the data consisted of three steps:
 
 * Getting the data
 * Cleaning/altering the data
 * Visualizing the data
-* Discussing and sharing results with group members
+
 
 What you need to cover: Talk about every step in your process, talk about how and why you made the decisions that you did. Why did you pick the website that you did? Did you download every record, or just some? Did you download the data directly from the website, or did you use a tool like Webscraper.io? Did you use OpenRefine to change the raw data in some form, and if so, why did you change it the way you did? What program(s) or techniques did you decide on to visualize or analyze it? Why did you feel those programs (e.g. Tableau or Gephi) were better than other options, given your research interest? Did you have to do anything to the data inside Tableau?
 
