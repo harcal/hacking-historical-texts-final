@@ -13,12 +13,6 @@
     </p>
 </figure>
 
-This is sort of your final thoughts, a summary of the process of the project itself. By discussing where you hit roadblocks and where you wish you could go if you had more time, you leave future individuals something to build on.
+After finishing the limited amount of research I had conducted on the project, I realize that the most important thing gained from this project was a better understanding of how to manipulate data. The overall experience of this project helped me develop a brand new skill of using github to psuedo code and create websites. While I may have done the project on my own, I still have an understanding of how efficient Github is at creating group projects and editing them in realtime. 
 
-You should talk about where you group encountered the most difficulties. What was the hardest about scraping, or visualizing, or locating historiography? Did you have problems communicating or sharing files on GitHub?
-
-What problems stopped you dead in the water? Did you have to change course mid-project to account for data that you could not get, or was not what you thought?
-
-Moving on from problems, let's the reader on a positive note. What worked best, where did you think the strength of the project was? What were the most useful historical insights? What were the most useful tools?
-
-Finally, think of future attempts to continue this line of research, whether by yourself or others. Where do you want to go with it. What areas do you think could be expanded easily? You can discuss what you wish you could have done but could not due to lack of time/skill/et.c. But, much more than that, what would you suggest would be the most useful thing(s) you think could actually be accomplished in the space of another semester?
+While shrinking the data set in size might have made it easier to clean and prepare the data, it would have caused bias and false research as a result. Finding a dataset that is more refined or smaller in size would have made preparation and analysis successful instead of a failure. The given dataset contains too many errors to be corrected in a short amount of time, which would not have worked for the project. The given data I chose needs much work in order to be easiable usable in programs such as Orange or Tableau. However, even though the data may not have been organized enough for intricate analysis, I was still able to draw some basic conclusions from what data was usable. Future usage of this data will first require heavy manual refinement by multiple people in order to make it more accurate. 
